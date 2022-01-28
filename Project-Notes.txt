@@ -1,0 +1,4 @@
+API(recive hhtp req and respond to them)--> Applicaiton(buisness logic) --> Domain  
+                                                        |                      |
+                                                        |                      |
+                                                 Persistence (connects to db and translate code into sql queries)       
